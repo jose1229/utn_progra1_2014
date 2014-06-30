@@ -16,7 +16,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Efrén
+ * @author jose miguel
  */
 public class Clase1 {
 
@@ -44,7 +44,7 @@ public class Clase1 {
         
         salario=horasTrabajadas*costoHora;
         
-        System.out.print("El salario final es " +salario);
+        System.out.println("El salario final es " +salario);
         
        // System.out.print("Java epic win" +"\n" );
         
