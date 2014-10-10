@@ -13,7 +13,9 @@ import java.util.Scanner;
  */
 public class Problema7 {
 
-    /**
+    /**7.	Declare una variable C de tipo entero y asígnale un valor.
+     * A continuación muestra un mensaje indicando si el valor de C es positivo o negativo, si es par o impar, si es múltiplo de 5, si es múltiplo de 10 y si es mayor o menor que 100. 
+     * Consideraremos el 0 como positivo. Utiliza el operador condicional if para resolverlo.
      * @param args the command line arguments
      */
     public static void main(String[] args) {
